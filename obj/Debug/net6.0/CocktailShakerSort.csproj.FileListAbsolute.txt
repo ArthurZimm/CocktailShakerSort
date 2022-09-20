@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\CocktailShakerSort.exe
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\CocktailShakerSort.deps.json
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\CocktailShakerSort.runtimeconfig.json
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\CocktailShakerSort.dll
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\CocktailShakerSort.pdb
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.AssemblyInfo.cs
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.dll
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\refint\CocktailShakerSort.dll
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.pdb
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\CocktailShakerSort.genruntimeconfig.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ref\CocktailShakerSort.dll

@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\ordenação-booble.exe
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\ordenação-booble.deps.json
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\ordenação-booble.runtimeconfig.json
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\ordenação-booble.dll
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\bin\Debug\net6.0\ordenação-booble.pdb
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.AssemblyInfo.cs
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.dll
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\refint\ordenação-booble.dll
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.pdb
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ordenação-booble.genruntimeconfig.cache
+C:\Users\arthu\Desktop\Programação\AED3\ordenação\ordenação-booble\obj\Debug\net6.0\ref\ordenação-booble.dll
